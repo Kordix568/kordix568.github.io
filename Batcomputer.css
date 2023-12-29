@@ -1,0 +1,17 @@
+/**
+  * @name Batcomputer
+  * @author Kordian568
+  * @version V1
+  * @description Just a Batcomputer1
+*/
+
+@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Dark+/Dark+.theme.css');
+
+:root {
+  --darkplus-bg: #212121;
+  --darkplus-bg2: #302f2f;
+  --darkplus-sec: #337aa0;
+  --darkplus-links: #265d7b;
+  --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/1152988038163595354/1190266979827843092/dQxQAed.png?ex=65a12d82&is=658eb882&hm=77ea76affe3e3eed00233aa998634d7fc79cc2f000e77de465a090a3e882c805&);
+  --darkplus-emoji-picker-color: 210deg;
+}
